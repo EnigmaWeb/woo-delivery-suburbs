@@ -1,0 +1,28 @@
+.box-style {
+    width: 500px;
+    border: 1px solid green;
+    padding: 10px;
+    margin: 25px 25px 25px 0;
+    background-color: #ffffff;
+}
+
+.box-style-import {
+    border: 1px solid green;
+    padding: 10px;
+    margin: 25px 0 0 0;
+    background-color: #dfdfdf;
+}
+
+.update-notice {
+    display: none;
+    background: #fff;
+    border-left: 4px solid #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+    box-shadow: 0 1px 1px 0 rgba( 0, 0, 0, 0.1 );
+    margin: 5px 15px 2px;
+    padding: 1px 12px;
+}
+
+.update-notice-info {
+    border-left-color: #00a0d2;
+}

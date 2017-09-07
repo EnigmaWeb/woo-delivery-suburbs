@@ -1,0 +1,8 @@
+.ds_shipping_suburb_select {
+    width: 100%;
+}
+
+.ds_delivery_suburb label {
+    margin-right: 12px;
+    color: inherit;
+}
